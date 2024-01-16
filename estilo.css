@@ -1,0 +1,31 @@
+body{
+    background: url('fundonumero.png') no-repeat center center fixed; 
+    background-size: cover;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px 4px black; /* Adiciona uma sombra preta à fonte do cabeçalho */
+}
+
+section{
+    background: white;
+    border-radius: 10px;                /*Deixa as bordas arredondadas*/
+    padding: 15px;                      /*Cria um espaço nessa section*/
+    width: 500px;                       /*Define largura fixa de 500px*/
+    margin: auto;                       /*Centraliza a section na tela*/
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.619);    /*Define 5px de deslocamento lateral e vertical e 10px de espalhamento*/
+}
+
+select{
+    width: 220px;
+}
+
+footer{
+    color: rgba(255, 255, 255, 0.972);
+    text-shadow: 3px 3px 4px black;
+    text-align: center;
+    font-style: italic;
+}
