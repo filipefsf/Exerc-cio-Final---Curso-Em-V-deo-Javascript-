@@ -25,7 +25,7 @@ Quaisquer tentativas de entradas pelo usuário fora deste padrão precisa ser pr
 
   2) O desafio também não incluía a utilização de imagem no plano de fundo. O cuidado com direitos autorais foi devidamente tomado utilizando a plataforma 'Pexels';
 
-  3) Por iniciativa própria e pensando como um usuário, fui em busca de como fazer o cursor retornar para o campo de inserção de entrada sem a necessidade de se clicar novamente no campo de 'pesquisa'. O desafio não incluía essa requisição, mas tomando me colocando no lugar do usuário pude perceber essa necessidade e, de fato, facilitou bastante no processo (além de enriquecer o aprendizado).
+  3) Por iniciativa própria e pensando como um usuário, fui em busca de como fazer o cursor retornar para o campo de inserção de entrada sem a necessidade de se clicar novamente no campo de 'pesquisa'. O desafio não incluía essa requisição, mas me colocando no lugar do usuário pude perceber essa necessidade e, de fato, facilitou bastante no processo (além de enriquecer o aprendizado).
 
 ## 🔗 TECNOLOGIAS
   - HTML;
